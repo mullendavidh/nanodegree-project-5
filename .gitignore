@@ -1,0 +1,8 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore node_modules folder
+/Exam*
+
+#ignore checkpoints
+.ipynb_checkpoints
